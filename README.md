@@ -83,3 +83,13 @@ Address: 199.36.158.100
 
 * `network.png` – Network tab showing the requests made while loading the website.
 * `terminal.png` – Output of the `nslookup` command.
+
+---
+
+## What I Learned
+
+* A website is made up of multiple files such as HTML, CSS, JavaScript, fonts, and images.
+* The browser sends a separate request for each file needed to load the webpage.
+* DNS converts a domain name into an IP address.
+* A **200 OK** status code means the request was successful.
+* Response headers provide information about the content returned by the server.
